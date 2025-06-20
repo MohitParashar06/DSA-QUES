@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/0347-top-k-frequent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/0347-top-k-frequent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1492-time-needed-to-inform-all-employees](https://github.com/MohitParashar06/DSA-QUES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1493-frog-position-after-t-seconds](https://github.com/MohitParashar06/DSA-QUES/tree/master/1493-frog-position-after-t-seconds) |
+## Math
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## String
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
