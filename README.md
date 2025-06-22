@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MohitParashar06/DSA-QUES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MohitParashar06/DSA-QUES/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohitParashar06/DSA-QUES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
 ## Dynamic Programming
 |  |
@@ -146,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
