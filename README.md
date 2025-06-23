@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/0202-happy-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohitParashar06/DSA-QUES/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
