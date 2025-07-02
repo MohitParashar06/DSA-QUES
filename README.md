@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohitParashar06/DSA-QUES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohitParashar06/DSA-QUES/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MohitParashar06/DSA-QUES/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MohitParashar06/DSA-QUES/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MohitParashar06/DSA-QUES/tree/master/0232-implement-queue-using-stacks) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MohitParashar06/DSA-QUES/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Design
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohitParashar06/DSA-QUES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohitParashar06/DSA-QUES/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MohitParashar06/DSA-QUES/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/0202-happy-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohitParashar06/DSA-QUES/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MohitParashar06/DSA-QUES/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sliding Window
 |  |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/0002-add-two-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MohitParashar06/DSA-QUES/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
