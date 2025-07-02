@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MohitParashar06/DSA-QUES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [3618-find-the-original-typed-string-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3618-find-the-original-typed-string-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
