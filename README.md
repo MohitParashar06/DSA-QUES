@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0016-3sum-closest) |
 | [0202-happy-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/0202-happy-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohitParashar06/DSA-QUES/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MohitParashar06/DSA-QUES/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
