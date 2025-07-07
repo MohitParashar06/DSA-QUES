@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MohitParashar06/DSA-QUES/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/MohitParashar06/DSA-QUES/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohitParashar06/DSA-QUES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohitParashar06/DSA-QUES/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohitParashar06/DSA-QUES/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MohitParashar06/DSA-QUES/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohitParashar06/DSA-QUES/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/0347-top-k-frequent-elements) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
