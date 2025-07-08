@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohitParashar06/DSA-QUES/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MohitParashar06/DSA-QUES/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MohitParashar06/DSA-QUES/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohitParashar06/DSA-QUES/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohitParashar06/DSA-QUES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohitParashar06/DSA-QUES/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MohitParashar06/DSA-QUES/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/MohitParashar06/DSA-QUES/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3618-find-the-original-typed-string-ii) |
