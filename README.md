@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/0202-happy-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohitParashar06/DSA-QUES/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohitParashar06/DSA-QUES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohitParashar06/DSA-QUES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
