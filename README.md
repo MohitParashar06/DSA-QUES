@@ -305,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohitParashar06/DSA-QUES/tree/master/2079-delete-duplicate-folders-in-system) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/MohitParashar06/DSA-QUES/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
