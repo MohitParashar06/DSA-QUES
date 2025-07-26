@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-find-the-k-sum-of-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MohitParashar06/DSA-QUES/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MohitParashar06/DSA-QUES/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Sliding Window
 |  |
