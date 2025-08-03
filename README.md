@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MohitParashar06/DSA-QUES/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohitParashar06/DSA-QUES/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MohitParashar06/DSA-QUES/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohitParashar06/DSA-QUES/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1813-maximum-erasure-value](https://github.com/MohitParashar06/DSA-QUES/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohitParashar06/DSA-QUES/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohitParashar06/DSA-QUES/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3618-find-the-original-typed-string-ii) |
 ## Monotonic Queue
