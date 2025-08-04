@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/MohitParashar06/DSA-QUES/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MohitParashar06/DSA-QUES/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/MohitParashar06/DSA-QUES/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0940-fruit-into-baskets](https://github.com/MohitParashar06/DSA-QUES/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/MohitParashar06/DSA-QUES/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohitParashar06/DSA-QUES/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0940-fruit-into-baskets](https://github.com/MohitParashar06/DSA-QUES/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/MohitParashar06/DSA-QUES/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohitParashar06/DSA-QUES/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
