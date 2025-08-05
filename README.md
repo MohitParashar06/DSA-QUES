@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohitParashar06/DSA-QUES/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -369,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohitParashar06/DSA-QUES/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
