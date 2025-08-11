@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohitParashar06/DSA-QUES/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/MohitParashar06/DSA-QUES/tree/master/2689-rearranging-fruits) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohitParashar06/DSA-QUES/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2529-range-product-queries-of-powers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3618-find-the-original-typed-string-ii) |
 ## Monotonic Queue
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohitParashar06/DSA-QUES/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
