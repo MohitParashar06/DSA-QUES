@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/MohitParashar06/DSA-QUES/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/MohitParashar06/DSA-QUES/tree/master/0326-power-of-three) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohitParashar06/DSA-QUES/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohitParashar06/DSA-QUES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/MohitParashar06/DSA-QUES/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/MohitParashar06/DSA-QUES/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
