@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MohitParashar06/DSA-QUES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohitParashar06/DSA-QUES/tree/master/0342-power-of-four) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohitParashar06/DSA-QUES/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0867-new-21-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohitParashar06/DSA-QUES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/1448-maximum-69-number) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/MohitParashar06/DSA-QUES/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/MohitParashar06/DSA-QUES/tree/master/0152-maximum-product-subarray) |
+| [0867-new-21-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/MohitParashar06/DSA-QUES/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/MohitParashar06/DSA-QUES/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/MohitParashar06/DSA-QUES/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -425,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
