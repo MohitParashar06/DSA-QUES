@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0684-redundant-connection](https://github.com/MohitParashar06/DSA-QUES/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0685-redundant-connection-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0684-redundant-connection](https://github.com/MohitParashar06/DSA-QUES/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0685-redundant-connection-ii) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/MohitParashar06/DSA-QUES/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohitParashar06/DSA-QUES/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/MohitParashar06/DSA-QUES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1493-frog-position-after-t-seconds](https://github.com/MohitParashar06/DSA-QUES/tree/master/1493-frog-position-after-t-seconds) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/0002-add-two-numbers) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohitParashar06/DSA-QUES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -445,5 +449,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohitParashar06/DSA-QUES/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
