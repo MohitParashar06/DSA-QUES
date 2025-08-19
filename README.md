@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MohitParashar06/DSA-QUES/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0685-redundant-connection-ii) |
 | [0754-cracking-the-safe](https://github.com/MohitParashar06/DSA-QUES/tree/master/0754-cracking-the-safe) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/MohitParashar06/DSA-QUES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1493-frog-position-after-t-seconds](https://github.com/MohitParashar06/DSA-QUES/tree/master/1493-frog-position-after-t-seconds) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohitParashar06/DSA-QUES/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/MohitParashar06/DSA-QUES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1493-frog-position-after-t-seconds](https://github.com/MohitParashar06/DSA-QUES/tree/master/1493-frog-position-after-t-seconds) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/MohitParashar06/DSA-QUES/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohitParashar06/DSA-QUES/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -451,4 +454,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohitParashar06/DSA-QUES/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
