@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/MohitParashar06/DSA-QUES/tree/master/0224-basic-calculator) |
+| [0319-bulb-switcher](https://github.com/MohitParashar06/DSA-QUES/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/MohitParashar06/DSA-QUES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohitParashar06/DSA-QUES/tree/master/0342-power-of-four) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohitParashar06/DSA-QUES/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/MohitParashar06/DSA-QUES/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohitParashar06/DSA-QUES/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Segment Tree
 |  |
