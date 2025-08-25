@@ -39,7 +39,7 @@ public:
             // cout << sum << " " << i  << " " << (temp[i+1]-temp[i]) << " " << cnt<< endl;
         }
         if(i+1 >= temp.size()){
-            // cout << sum << endl;
+            cout << sum << endl;
             long long s = sum/temp.size();
             return temp[temp.size()-1]+s;
         }
