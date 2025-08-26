@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/MohitParashar06/DSA-QUES/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
 | [0852-friends-of-appropriate-ages](https://github.com/MohitParashar06/DSA-QUES/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/MohitParashar06/DSA-QUES/tree/master/0853-most-profit-assigning-work) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/MohitParashar06/DSA-QUES/tree/master/0940-fruit-into-baskets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/1087-longest-arithmetic-subsequence) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/MohitParashar06/DSA-QUES/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/MohitParashar06/DSA-QUES/tree/master/0853-most-profit-assigning-work) |
 | [1448-maximum-69-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/MohitParashar06/DSA-QUES/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohitParashar06/DSA-QUES/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohitParashar06/DSA-QUES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
