@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MohitParashar06/DSA-QUES/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohitParashar06/DSA-QUES/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/MohitParashar06/DSA-QUES/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
