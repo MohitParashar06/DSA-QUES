@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
 | [0852-friends-of-appropriate-ages](https://github.com/MohitParashar06/DSA-QUES/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/MohitParashar06/DSA-QUES/tree/master/0853-most-profit-assigning-work) |
+| [0876-hand-of-straights](https://github.com/MohitParashar06/DSA-QUES/tree/master/0876-hand-of-straights) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/MohitParashar06/DSA-QUES/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MohitParashar06/DSA-QUES/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
+| [0876-hand-of-straights](https://github.com/MohitParashar06/DSA-QUES/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/MohitParashar06/DSA-QUES/tree/master/0940-fruit-into-baskets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/1087-longest-arithmetic-subsequence) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/MohitParashar06/DSA-QUES/tree/master/0853-most-profit-assigning-work) |
+| [0876-hand-of-straights](https://github.com/MohitParashar06/DSA-QUES/tree/master/0876-hand-of-straights) |
 | [1448-maximum-69-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/MohitParashar06/DSA-QUES/tree/master/1499-maximum-performance-of-a-team) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0852-friends-of-appropriate-ages](https://github.com/MohitParashar06/DSA-QUES/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/MohitParashar06/DSA-QUES/tree/master/0853-most-profit-assigning-work) |
+| [0876-hand-of-straights](https://github.com/MohitParashar06/DSA-QUES/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
