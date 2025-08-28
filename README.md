@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MohitParashar06/DSA-QUES/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/MohitParashar06/DSA-QUES/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1253-sort-the-matrix-diagonally](https://github.com/MohitParashar06/DSA-QUES/tree/master/1253-sort-the-matrix-diagonally) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohitParashar06/DSA-QUES/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/MohitParashar06/DSA-QUES/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/MohitParashar06/DSA-QUES/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
+| [1253-sort-the-matrix-diagonally](https://github.com/MohitParashar06/DSA-QUES/tree/master/1253-sort-the-matrix-diagonally) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/MohitParashar06/DSA-QUES/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohitParashar06/DSA-QUES/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MohitParashar06/DSA-QUES/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
