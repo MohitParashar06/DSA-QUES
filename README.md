@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MohitParashar06/DSA-QUES/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0224-basic-calculator](https://github.com/MohitParashar06/DSA-QUES/tree/master/0224-basic-calculator) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1403-palindrome-partitioning-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1403-palindrome-partitioning-iii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohitParashar06/DSA-QUES/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohitParashar06/DSA-QUES/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-count-vowels-permutation](https://github.com/MohitParashar06/DSA-QUES/tree/master/1332-count-vowels-permutation) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohitParashar06/DSA-QUES/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1403-palindrome-partitioning-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1403-palindrome-partitioning-iii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohitParashar06/DSA-QUES/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
