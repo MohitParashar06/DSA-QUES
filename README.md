@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/MohitParashar06/DSA-QUES/tree/master/0224-basic-calculator) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1403-palindrome-partitioning-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1403-palindrome-partitioning-iii) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MohitParashar06/DSA-QUES/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohitParashar06/DSA-QUES/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/MohitParashar06/DSA-QUES/tree/master/1871-palindrome-partitioning-iv) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohitParashar06/DSA-QUES/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohitParashar06/DSA-QUES/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohitParashar06/DSA-QUES/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1403-palindrome-partitioning-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1403-palindrome-partitioning-iii) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MohitParashar06/DSA-QUES/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohitParashar06/DSA-QUES/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
