@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohitParashar06/DSA-QUES/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
+| [0804-rotated-digits](https://github.com/MohitParashar06/DSA-QUES/tree/master/0804-rotated-digits) |
 | [0867-new-21-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohitParashar06/DSA-QUES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/MohitParashar06/DSA-QUES/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
+| [0804-rotated-digits](https://github.com/MohitParashar06/DSA-QUES/tree/master/0804-rotated-digits) |
 | [0867-new-21-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/1087-longest-arithmetic-subsequence) |
