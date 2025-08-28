@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1403-palindrome-partitioning-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1403-palindrome-partitioning-iii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohitParashar06/DSA-QUES/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-palindrome-partitioning-iv](https://github.com/MohitParashar06/DSA-QUES/tree/master/1871-palindrome-partitioning-iv) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohitParashar06/DSA-QUES/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohitParashar06/DSA-QUES/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohitParashar06/DSA-QUES/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-palindrome-partitioning-iv](https://github.com/MohitParashar06/DSA-QUES/tree/master/1871-palindrome-partitioning-iv) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohitParashar06/DSA-QUES/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
