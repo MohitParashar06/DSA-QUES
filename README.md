@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/MohitParashar06/DSA-QUES/tree/master/1448-maximum-69-number) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MohitParashar06/DSA-QUES/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/MohitParashar06/DSA-QUES/tree/master/1871-palindrome-partitioning-iv) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MohitParashar06/DSA-QUES/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohitParashar06/DSA-QUES/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -521,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MohitParashar06/DSA-QUES/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MohitParashar06/DSA-QUES/tree/master/3748-sort-matrix-by-diagonals) |
+## Combinatorics
+|  |
+| ------- |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MohitParashar06/DSA-QUES/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
