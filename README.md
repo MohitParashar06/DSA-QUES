@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MohitParashar06/DSA-QUES/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0224-basic-calculator](https://github.com/MohitParashar06/DSA-QUES/tree/master/0224-basic-calculator) |
+| [0639-decode-ways-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0639-decode-ways-ii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1403-palindrome-partitioning-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1403-palindrome-partitioning-iii) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MohitParashar06/DSA-QUES/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/MohitParashar06/DSA-QUES/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
+| [0639-decode-ways-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0639-decode-ways-ii) |
 | [0804-rotated-digits](https://github.com/MohitParashar06/DSA-QUES/tree/master/0804-rotated-digits) |
 | [0867-new-21-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
