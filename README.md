@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MohitParashar06/DSA-QUES/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-maximum-number-of-robots-within-budget](https://github.com/MohitParashar06/DSA-QUES/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/2479-meeting-rooms-iii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-cracking-the-safe](https://github.com/MohitParashar06/DSA-QUES/tree/master/0754-cracking-the-safe) |
 | [1493-frog-position-after-t-seconds](https://github.com/MohitParashar06/DSA-QUES/tree/master/1493-frog-position-after-t-seconds) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
 |  |
 | ------- |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/MohitParashar06/DSA-QUES/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohitParashar06/DSA-QUES/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MohitParashar06/DSA-QUES/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MohitParashar06/DSA-QUES/tree/master/3748-sort-matrix-by-diagonals) |
 ## Combinatorics
@@ -543,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
