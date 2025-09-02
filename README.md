@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohitParashar06/DSA-QUES/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2529-range-product-queries-of-powers) |
+| [2648-number-of-ways-to-earn-points](https://github.com/MohitParashar06/DSA-QUES/tree/master/2648-number-of-ways-to-earn-points) |
 | [2689-rearranging-fruits](https://github.com/MohitParashar06/DSA-QUES/tree/master/2689-rearranging-fruits) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2648-number-of-ways-to-earn-points](https://github.com/MohitParashar06/DSA-QUES/tree/master/2648-number-of-ways-to-earn-points) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/MohitParashar06/DSA-QUES/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
