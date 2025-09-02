@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohitParashar06/DSA-QUES/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2529-range-product-queries-of-powers) |
+| [2554-minimum-total-distance-traveled](https://github.com/MohitParashar06/DSA-QUES/tree/master/2554-minimum-total-distance-traveled) |
 | [2648-number-of-ways-to-earn-points](https://github.com/MohitParashar06/DSA-QUES/tree/master/2648-number-of-ways-to-earn-points) |
 | [2689-rearranging-fruits](https://github.com/MohitParashar06/DSA-QUES/tree/master/2689-rearranging-fruits) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-find-the-k-sum-of-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2554-minimum-total-distance-traveled](https://github.com/MohitParashar06/DSA-QUES/tree/master/2554-minimum-total-distance-traveled) |
 | [2689-rearranging-fruits](https://github.com/MohitParashar06/DSA-QUES/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MohitParashar06/DSA-QUES/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2554-minimum-total-distance-traveled](https://github.com/MohitParashar06/DSA-QUES/tree/master/2554-minimum-total-distance-traveled) |
 | [2648-number-of-ways-to-earn-points](https://github.com/MohitParashar06/DSA-QUES/tree/master/2648-number-of-ways-to-earn-points) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/MohitParashar06/DSA-QUES/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
