@@ -20,7 +20,8 @@ int dp[1001][1001][2];
             for(int k = 0; k < nums.size(); k++)
                 ans ^=nums[k];
             if(ans == 0) return true;
-        bool a1 = solve(0,nums.size()-1, nums, 0);
+        // bool a1 = solve(0,nums.size()-1, nums, 0);
+        bool a1 = nums.size()%2 == 0;
         return a1;
     }
 };
