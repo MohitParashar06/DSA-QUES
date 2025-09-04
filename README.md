@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
+| [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [0852-friends-of-appropriate-ages](https://github.com/MohitParashar06/DSA-QUES/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/MohitParashar06/DSA-QUES/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/MohitParashar06/DSA-QUES/tree/master/0876-hand-of-straights) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohitParashar06/DSA-QUES/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/MohitParashar06/DSA-QUES/tree/master/0804-rotated-digits) |
+| [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [0867-new-21-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohitParashar06/DSA-QUES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
+| [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
 ## Memoization
 |  |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/MohitParashar06/DSA-QUES/tree/master/0342-power-of-four) |
+| [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/MohitParashar06/DSA-QUES/tree/master/0319-bulb-switcher) |
+| [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohitParashar06/DSA-QUES/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Segment Tree
 |  |
