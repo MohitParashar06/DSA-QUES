@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/MohitParashar06/DSA-QUES/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/MohitParashar06/DSA-QUES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohitParashar06/DSA-QUES/tree/master/0342-power-of-four) |
+| [0464-can-i-win](https://github.com/MohitParashar06/DSA-QUES/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohitParashar06/DSA-QUES/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0797-rabbits-in-forest](https://github.com/MohitParashar06/DSA-QUES/tree/master/0797-rabbits-in-forest) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MohitParashar06/DSA-QUES/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/MohitParashar06/DSA-QUES/tree/master/0152-maximum-product-subarray) |
+| [0464-can-i-win](https://github.com/MohitParashar06/DSA-QUES/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
 | [0639-decode-ways-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0639-decode-ways-ii) |
 | [0804-rotated-digits](https://github.com/MohitParashar06/DSA-QUES/tree/master/0804-rotated-digits) |
@@ -447,12 +449,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/MohitParashar06/DSA-QUES/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
 | [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
 ## Memoization
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/MohitParashar06/DSA-QUES/tree/master/0464-can-i-win) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohitParashar06/DSA-QUES/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MohitParashar06/DSA-QUES/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/MohitParashar06/DSA-QUES/tree/master/0342-power-of-four) |
+| [0464-can-i-win](https://github.com/MohitParashar06/DSA-QUES/tree/master/0464-can-i-win) |
 | [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -575,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/MohitParashar06/DSA-QUES/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
