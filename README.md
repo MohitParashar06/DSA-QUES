@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/MohitParashar06/DSA-QUES/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MohitParashar06/DSA-QUES/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2078-maximum-compatibility-score-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2078-maximum-compatibility-score-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohitParashar06/DSA-QUES/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/MohitParashar06/DSA-QUES/tree/master/1871-palindrome-partitioning-iv) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MohitParashar06/DSA-QUES/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohitParashar06/DSA-QUES/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2078-maximum-compatibility-score-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2078-maximum-compatibility-score-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohitParashar06/DSA-QUES/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/0691-stickers-to-spell-word) |
+| [2078-maximum-compatibility-score-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2078-maximum-compatibility-score-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohitParashar06/DSA-QUES/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Eulerian Circuit
 |  |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/0691-stickers-to-spell-word) |
 | [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2078-maximum-compatibility-score-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2078-maximum-compatibility-score-sum) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohitParashar06/DSA-QUES/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -594,4 +598,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/MohitParashar06/DSA-QUES/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/0691-stickers-to-spell-word) |
+| [2078-maximum-compatibility-score-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2078-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
