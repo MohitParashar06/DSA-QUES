@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohitParashar06/DSA-QUES/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohitParashar06/DSA-QUES/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1471-maximum-students-taking-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/1471-maximum-students-taking-exam) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohitParashar06/DSA-QUES/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/MohitParashar06/DSA-QUES/tree/master/1499-maximum-performance-of-a-team) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohitParashar06/DSA-QUES/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1403-palindrome-partitioning-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1403-palindrome-partitioning-iii) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MohitParashar06/DSA-QUES/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1471-maximum-students-taking-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/1471-maximum-students-taking-exam) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohitParashar06/DSA-QUES/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/0691-stickers-to-spell-word) |
 | [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1471-maximum-students-taking-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/1471-maximum-students-taking-exam) |
 | [2078-maximum-compatibility-score-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2078-maximum-compatibility-score-sum) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohitParashar06/DSA-QUES/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MohitParashar06/DSA-QUES/tree/master/0036-valid-sudoku) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohitParashar06/DSA-QUES/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohitParashar06/DSA-QUES/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1471-maximum-students-taking-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/1471-maximum-students-taking-exam) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -598,5 +602,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/MohitParashar06/DSA-QUES/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/0691-stickers-to-spell-word) |
+| [1471-maximum-students-taking-exam](https://github.com/MohitParashar06/DSA-QUES/tree/master/1471-maximum-students-taking-exam) |
 | [2078-maximum-compatibility-score-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/2078-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
