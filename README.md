@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/2887-sort-vowels-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MohitParashar06/DSA-QUES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
 | [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [1808-stone-game-vii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1808-stone-game-vii) |
+| [3462-vowels-game-in-a-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/3462-vowels-game-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/MohitParashar06/DSA-QUES/tree/master/0319-bulb-switcher) |
 | [0828-chalkboard-xor-game](https://github.com/MohitParashar06/DSA-QUES/tree/master/0828-chalkboard-xor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohitParashar06/DSA-QUES/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/3462-vowels-game-in-a-string) |
 ## Segment Tree
 |  |
 | ------- |
