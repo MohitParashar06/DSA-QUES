@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MohitParashar06/DSA-QUES/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0685-redundant-connection-ii) |
 | [0754-cracking-the-safe](https://github.com/MohitParashar06/DSA-QUES/tree/master/0754-cracking-the-safe) |
+| [0988-flip-equivalent-binary-trees](https://github.com/MohitParashar06/DSA-QUES/tree/master/0988-flip-equivalent-binary-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/MohitParashar06/DSA-QUES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1493-frog-position-after-t-seconds](https://github.com/MohitParashar06/DSA-QUES/tree/master/1493-frog-position-after-t-seconds) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohitParashar06/DSA-QUES/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0988-flip-equivalent-binary-trees](https://github.com/MohitParashar06/DSA-QUES/tree/master/0988-flip-equivalent-binary-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/MohitParashar06/DSA-QUES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1493-frog-position-after-t-seconds](https://github.com/MohitParashar06/DSA-QUES/tree/master/1493-frog-position-after-t-seconds) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohitParashar06/DSA-QUES/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0988-flip-equivalent-binary-trees](https://github.com/MohitParashar06/DSA-QUES/tree/master/0988-flip-equivalent-binary-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
