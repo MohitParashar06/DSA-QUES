@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/MohitParashar06/DSA-QUES/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/MohitParashar06/DSA-QUES/tree/master/0940-fruit-into-baskets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/1087-longest-arithmetic-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/MohitParashar06/DSA-QUES/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MohitParashar06/DSA-QUES/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/MohitParashar06/DSA-QUES/tree/master/1813-maximum-erasure-value) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/MohitParashar06/DSA-QUES/tree/master/0224-basic-calculator) |
 | [0639-decode-ways-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0639-decode-ways-ii) |
 | [0691-stickers-to-spell-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/0691-stickers-to-spell-word) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/MohitParashar06/DSA-QUES/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1403-palindrome-partitioning-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/1403-palindrome-partitioning-iii) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MohitParashar06/DSA-QUES/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
