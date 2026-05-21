@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2648-number-of-ways-to-earn-points](https://github.com/MohitParashar06/DSA-QUES/tree/master/2648-number-of-ways-to-earn-points) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/MohitParashar06/DSA-QUES/tree/master/2689-rearranging-fruits) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MohitParashar06/DSA-QUES/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/MohitParashar06/DSA-QUES/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MohitParashar06/DSA-QUES/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/MohitParashar06/DSA-QUES/tree/master/2479-meeting-rooms-iii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MohitParashar06/DSA-QUES/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/MohitParashar06/DSA-QUES/tree/master/2689-rearranging-fruits) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MohitParashar06/DSA-QUES/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MohitParashar06/DSA-QUES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MohitParashar06/DSA-QUES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohitParashar06/DSA-QUES/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohitParashar06/DSA-QUES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/MohitParashar06/DSA-QUES/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/2887-sort-vowels-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MohitParashar06/DSA-QUES/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MohitParashar06/DSA-QUES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/MohitParashar06/DSA-QUES/tree/master/3462-vowels-game-in-a-string) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohitParashar06/DSA-QUES/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MohitParashar06/DSA-QUES/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Function
 |  |
 | ------- |
