@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MohitParashar06/DSA-QUES/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/MohitParashar06/DSA-QUES/tree/master/0502-ipo) |
+| [0518-coin-change-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohitParashar06/DSA-QUES/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohitParashar06/DSA-QUES/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0691-stickers-to-spell-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/0691-stickers-to-spell-word) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/MohitParashar06/DSA-QUES/tree/master/0152-maximum-product-subarray) |
 | [0464-can-i-win](https://github.com/MohitParashar06/DSA-QUES/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/MohitParashar06/DSA-QUES/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0518-coin-change-ii) |
 | [0639-decode-ways-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0639-decode-ways-ii) |
 | [0691-stickers-to-spell-word](https://github.com/MohitParashar06/DSA-QUES/tree/master/0691-stickers-to-spell-word) |
 | [0804-rotated-digits](https://github.com/MohitParashar06/DSA-QUES/tree/master/0804-rotated-digits) |
@@ -646,4 +648,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MohitParashar06/DSA-QUES/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/MohitParashar06/DSA-QUES/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
