@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MohitParashar06/DSA-QUES/tree/master/0199-binary-tree-right-side-view) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/MohitParashar06/DSA-QUES/tree/master/0199-binary-tree-right-side-view) |
 | [0684-redundant-connection](https://github.com/MohitParashar06/DSA-QUES/tree/master/0684-redundant-connection) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohitParashar06/DSA-QUES/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/MohitParashar06/DSA-QUES/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohitParashar06/DSA-QUES/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MohitParashar06/DSA-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohitParashar06/DSA-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
